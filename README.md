@@ -100,3 +100,26 @@ At this point, I make sure to save the file properly so that it’s ready to be 
   <img src="/images/demo5.gif" width="550"/>
 </p>
 
+Now I’ve moved into the next phase — uploading the CSV template.
+
+In the GIF above, I’m uploading the CSV file that I’ve already injected with the correct candidate details, including their names, user principal names, and initial passwords.
+
+Right below this paragraph, I’ve included supporting visuals to show the outcome of this process.
+
+The first screenshot captures the successful upload, confirming that the file was processed without errors and that everything in the template was formatted correctly.
+
+<p align="center">
+  <img src="/images/userprocess.jpg" width="550"/>
+</p>
+
+
+In the GIF that follows, I refresh the environment after the upload to validate the changes, showing that all users have been successfully created.
+
+<p align="center">
+  <img src="/images/demo6.gif" width="550"/>
+</p>
+
+
+
+
+
