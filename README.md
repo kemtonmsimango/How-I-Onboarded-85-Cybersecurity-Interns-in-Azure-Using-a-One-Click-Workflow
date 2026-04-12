@@ -53,3 +53,5 @@ The diagram below shows how I structured this solution for the business
 <p align="center">
   <img src="/images/internmind.png" width="550"/>
 </p>
+
+## **Step 1**: Navigating to Microsoft Entra ID
