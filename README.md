@@ -84,8 +84,14 @@ In the first screenshot, this is the original CSV template exactly as I download
 
 In the second screenshot, this is after I injected the data provided by HR. I populated the file with each candidate’s name, user principal name, and an initial password for first-time access.
 
-It’s important to note that these passwords are only temporary. Each user is required to change their password as soon as they sign in for the first time, ensuring the environment remains secure from the start.
+It’s **important** to note that these **passwords** are only **temporary**. Each user is required to change their password as soon as they sign in for the first time, ensuring the environment remains **secure** from the start.
 
 <p align="center">
   <img src="/images/csvtemp2.jpg" width="550"/>
 </p>
+
+Now that I’ve injected all the appropriate candidate details into the CSV file, I’m ready to move into the next phase — uploading.
+
+At this point, I make sure to save the file properly so that it’s ready to be uploaded in the next step using the Bulk Operations feature in Azure.
+
+## Step 3: Uploading the CSV file
