@@ -95,3 +95,8 @@ Now that I’ve injected all the appropriate candidate details into the CSV file
 At this point, I make sure to save the file properly so that it’s ready to be uploaded in the next step using the Bulk Operations feature in Azure.
 
 ## Step 3: Uploading the CSV file
+
+<p align="center">
+  <img src="/images/demo5.gif" width="550"/>
+</p>
+
