@@ -71,3 +71,21 @@ In the GIF above, I navigate through Microsoft Entra ID to locate one of the mos
 Instead of creating users one by one, I click on Bulk operations → Create, which allows me to streamline the entire onboarding process.
 
 From there, I download the CSV template that Azure provides. This template becomes the foundation for defining all 85 users in a structured and scalable way before uploading them into the environment.
+
+## Screenshots Of CSV Templates
+
+With the two screenshots below, I’m showing a clear before-and-after of how I prepared the bulk user file.
+
+In the first screenshot, this is the original CSV template exactly as I downloaded it from Azure untouched and ready to be populated.
+
+<p align="center">
+  <img src="/images/csvtemp1.jpg" width="550"/>
+</p>
+
+In the second screenshot, this is after I injected the data provided by HR. I populated the file with each candidate’s name, user principal name, and an initial password for first-time access.
+
+It’s important to note that these passwords are only temporary. Each user is required to change their password as soon as they sign in for the first time, ensuring the environment remains secure from the start.
+
+<p align="center">
+  <img src="/images/csvtemp2.jpg" width="550"/>
+</p>
