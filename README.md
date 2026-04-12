@@ -2,5 +2,5 @@
 Onboarded 85 cybersecurity interns in Azure using Entra ID bulk operations. Created users via CSV, organized them into dynamic security groups (SOC, Cloud, GRC), assigned licenses through group-based licensing, and enabled SSPR for secure identity management in a scalable environment.
 
 <p align="center">
-  <img src="/images/demo3.gif" width="700"/>
+  <img src="/images/demo4.gif" width="700"/>
 </p>
