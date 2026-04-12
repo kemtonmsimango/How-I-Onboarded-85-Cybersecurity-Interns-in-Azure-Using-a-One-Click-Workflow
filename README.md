@@ -22,42 +22,30 @@ My responsibility was to ensure each user was properly provisioned in Microsoft 
 
 ## Breaking Down My Thinking
 
-First, let me take you through my mind and how I approached this
+First, let me take you through my approach
 
 <br>
 
-When I looked at this task, one thing was clear
+Creating 85 user accounts manually would not make sense in a real business environment
 
-creating 85 user accounts one by one would not make sense in a real business environment
-
-<br>
-
-It would take too much time
-and increase the chances of errors
+It is time consuming
+and increases the risk of errors
 
 <br>
 
-So instead of going down that route
-I shifted my focus to a more structured and practical approach
-
-one that aligns with how things are actually done in production
+So I focused on a more structured and practical approach
+one that aligns with how this is handled in production
 
 <br>
 
-Before I even touched the implementation
-I mapped out the entire process in my mind
+Before implementing anything
+I mapped out the full process in my mind
 
-<br>
-
-This allowed me to ensure the solution would be
+to ensure the solution is
 
 ✅efficient
-
 ✅consistent
-
 ✅secure
-
 <br>
 
-The diagram below represents exactly how I was thinking
-and how I planned out the implementation of this solution for the business
+The diagram below shows how I structured this solution for the business
