@@ -119,7 +119,20 @@ In the GIF that follows, I refresh the environment after the upload to validate 
   <img src="/images/demo6.gif" width="550"/>
 </p>
 
+## Step 4: Creating and Reviewing Groups
 
+<p align="center">
+  <img src="/images/demo7.gif" width="550"/>
+</p>
 
+Now I’m moving into the next phase — creating and reviewing groups.
 
+At this stage, I create dynamic groups to align with the three departments defined in the ticket: **Cloud Operations**, **Security Operations Center (SOC)**, and **Governance, Risk, and Compliance (GRC)**. Each department is separated into its own group to ensure proper organization and access control.
 
+I specifically chose **dynamic groups** because they significantly reduce administrative effort. Instead of manually assigning each user, Azure automatically places users into the correct group based on their attributes — in this case, the department field defined in the CSV.
+
+This means as long as the user’s department is correctly set, they are automatically assigned to the appropriate group without any **manual intervention**.
+
+Below this section, I’ve included the dynamic membership rules used for each group, showing exactly how users are automatically assigned based on their department attributes.
+
+You’ll also notice that I created a total of four dynamic groups. I’ll explain later why I included an additional group for **SSPR and an “All Departments”** grouping as part of the overall design.
