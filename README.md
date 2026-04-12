@@ -55,3 +55,6 @@ The diagram below shows how I structured this solution for the business
 </p>
 
 ## **Step 1**: Navigating to Microsoft Entra ID
+<p align="center">
+  <img src="/images/01entra-home.gif" width="550"/>
+</p>
