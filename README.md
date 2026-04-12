@@ -58,3 +58,16 @@ The diagram below shows how I structured this solution for the business
 <p align="center">
   <img src="/images/01entra-home.gif" width="550"/>
 </p>
+
+I started by accessing Microsoft Entra ID, which is where I would manage identity, user provisioning, group membership, and password reset settings for the new interns.
+
+## Step 2: Preparing the CSV template
+<p align="center">
+  <img src="/images/02-csv-template.gif" width="550"/>
+</p>
+
+In the GIF above, I navigate through Microsoft Entra ID to locate one of the most efficient features Azure provides — the Bulk Operations option.
+
+Instead of creating users one by one, I click on Bulk operations → Create, which allows me to streamline the entire onboarding process.
+
+From there, I download the CSV template that Azure provides. This template becomes the foundation for defining all 85 users in a structured and scalable way before uploading them into the environment.
