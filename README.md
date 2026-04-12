@@ -61,7 +61,7 @@ The diagram below shows how I structured this solution for the business
 
 I started by accessing Microsoft Entra ID, which is where I would manage identity, user provisioning, group membership, and password reset settings for the new interns.
 
-## Step 2: Preparing the CSV template
+## Step 2: Preparing the CSV Template
 <p align="center">
   <img src="/images/02-csv-template.gif" width="550"/>
 </p>
@@ -136,3 +136,29 @@ This means as long as the user’s department is correctly set, they are automat
 Below this section, I’ve included the dynamic membership rules used for each group, showing exactly how users are automatically assigned based on their department attributes.
 
 You’ll also notice that I created a total of four dynamic groups. I’ll explain later why I included an additional group for **SSPR and an “All Departments”** grouping as part of the overall design.
+
+
+**SOC Dynamic Rule Screenshot**
+
+<p align="left">
+  <img src="/images/grcscreen.jpg" width="450"/>
+</p>
+
+**GRC Dynamic Rule Screenshot**
+
+<p align="left">
+  <img src="/images/socscreen.jpg" width="450"/>
+</p>
+
+**CloudOps Dynamic Rule Screenshot**
+
+<p align="left">
+  <img src="/images/cloudscreen.jpg" width="450"/>
+</p>
+
+## Step 5: Assigning Licenses
+
+
+
+
+
