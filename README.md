@@ -177,3 +177,51 @@ In the **screenshot below**, I show a validation step where a user within the gr
 <p align="center">
   <img src="/images/licensepic.jpg" width="650"/>
 </p>
+
+## Step 6: Enabling Self-Service Password Reset (SSPR) to Reduce Helpdesk Dependency
+
+<p align="center">
+  <img src="/images/demo9.gif" width="550"/>
+</p>
+
+Now I’m moving into Step 6 — **Enabling Self-Service Password Reset (SSPR)** to reduce help desk dependency.
+
+This is a critical part of creating a secure Azure environment. Users will inevitably forget their passwords, and without SSPR, this would require constant intervention from an administrator to reset accounts.
+
+To avoid that, I enabled **Self-Service Password Reset (SSPR)** — a powerful feature in Azure that allows users to securely reset their own passwords without relying on the help desk.
+
+Instead of enabling this feature user by user, I applied it at the group level. I scoped SSPR to a group that contains all relevant users, which ensures that everyone within that group is automatically covered without any manual selection.
+
+In the GIF above, I demonstrate how I configured and enabled SSPR for the group and saved the configuration.
+
+In the screenshot below, I show the **authentication methods** configured for SSPR — including the security questions that users must set up as part of the verification process.
+
+**Authentication Methods**
+<p align="left">
+  <img src="/images/authpic.jpg" width="550"/>
+</p>
+
+**Security Questions**
+<p align="left">
+  <img src="/images/authpic2.jpg" width="550"/>
+</p>
+
+
+
+With this in place, users are able to securely manage their own password resets, reducing administrative overhead while maintaining strong security practices.
+
+At this point, the onboarding and configuration process is **complete**.
+
+# Thank you for the Read 
+<p align="center">
+  <img src="/images/defendk.jpg" width="550"/>
+</p>
+
+My name is Kemton, and I’m an Azure Administrator focused on cloud administration with a strong interest in security.
+
+I currently hold **CompTIA Security+** and **AZ-900** (Azure Fundamentals), and I’m actively working towards earning my AZ-104 (Azure Administrator) certification.
+
+If you’d like to connect or follow my journey, feel free to check out my LinkedIn — it’s included in the image above.
+
+I appreciate you taking the time to go through this project. I hope it was helpful, practical, and gave you real insight into how these processes are handled in a real-world environment.
+
