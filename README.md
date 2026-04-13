@@ -158,7 +158,19 @@ You’ll also notice that I created a total of four dynamic groups. I’ll expla
 
 ## Step 5: Assigning Licenses
 
+<p align="left">
+  <img src="/images/demo8.gif" width="450"/>
+</p>
 
+Now I’m moving into **Step 5 — Assigning Licenses**, which is one of the most important parts of this entire process.
 
+In the **GIF above**, I demonstrate how I navigated into the groups I previously created. For this walkthrough, I show one example, but the same process applies across all groups.
 
+Instead of assigning licenses to each user individually, I used **group-based licensing**. This means I assign the license directly to the group, and all users within that group automatically inherit the license.
+
+This approach makes the process significantly more **efficient**, especially when working with a large number of users. It eliminates the need for repetitive manual work and ensures consistency across the organization.
+
+As a result, every user within the group receives the appropriate license based on their assigned department.
+
+In the **screenshot below**, I show a validation step where a user within the group has **successfully inherited** the license — confirming that the group-based licensing was applied correctly according to the defined scope.
 
