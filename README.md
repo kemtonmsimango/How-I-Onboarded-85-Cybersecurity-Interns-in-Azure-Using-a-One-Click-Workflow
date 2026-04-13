@@ -158,8 +158,8 @@ You’ll also notice that I created a total of four dynamic groups. I’ll expla
 
 ## Step 5: Assigning Licenses
 
-<p align="left">
-  <img src="/images/demo8.gif" width="450"/>
+<p align="center">
+  <img src="/images/demo8.gif" width="550"/>
 </p>
 
 Now I’m moving into **Step 5 — Assigning Licenses**, which is one of the most important parts of this entire process.
@@ -174,3 +174,6 @@ As a result, every user within the group receives the appropriate license based 
 
 In the **screenshot below**, I show a validation step where a user within the group has **successfully inherited** the license — confirming that the group-based licensing was applied correctly according to the defined scope.
 
+<p align="center">
+  <img src="/images/licensepic.jpg" width="650"/>
+</p>
